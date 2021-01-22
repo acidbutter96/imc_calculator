@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/acidbutter/imc_calculator/BuildConfig.java
+ br.com.acidbutter.imc_calculator.BuildConfig
